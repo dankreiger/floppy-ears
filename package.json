@@ -1,0 +1,13 @@
+{
+  "name": "floppy-ears",
+  "version": "1.0.1",
+  "description": "puppy grab bag",
+  "repository": "dankreiger/floppy-ears",
+  "main": "index.js",
+  "keywords": [
+    "floppy-ears",
+    "npm",
+    "package",
+    "dankreiger"
+  ]
+}
